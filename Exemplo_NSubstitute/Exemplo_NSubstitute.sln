@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29123.89
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsultaCredito", "..\ConsultaCredito\ConsultaCredito.csproj", "{95C59EAB-1D09-45FA-85C9-BCFD52F21DB7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsultaCredito.Testes", "..\ConsultaCredito.Testes\ConsultaCredito.Testes.csproj", "{738FF662-DB09-4539-A1C4-D5EFC9ECE5A5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95C59EAB-1D09-45FA-85C9-BCFD52F21DB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95C59EAB-1D09-45FA-85C9-BCFD52F21DB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95C59EAB-1D09-45FA-85C9-BCFD52F21DB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95C59EAB-1D09-45FA-85C9-BCFD52F21DB7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{738FF662-DB09-4539-A1C4-D5EFC9ECE5A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{738FF662-DB09-4539-A1C4-D5EFC9ECE5A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{738FF662-DB09-4539-A1C4-D5EFC9ECE5A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{738FF662-DB09-4539-A1C4-D5EFC9ECE5A5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0A6DC2EB-7CD2-4550-AD82-2B80CFD822B7}
+	EndGlobalSection
+EndGlobal
